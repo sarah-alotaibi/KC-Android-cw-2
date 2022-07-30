@@ -1,0 +1,12 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    int hight = 160;
+	    if(hight>160){
+	       System.out.println("you can enter");
+	    }else{
+	        System.out.println("you can't enter");
+	    }
+	     }
+	
+}
